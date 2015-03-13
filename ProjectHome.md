@@ -1,0 +1,1 @@
+Use Facebook as a stand-alone application, instead of having to open it in a web browser.
